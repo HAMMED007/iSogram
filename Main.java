@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(isograms("moOse"));
+        System.out.println(isograms("dermatophysics"));
 
 
 
